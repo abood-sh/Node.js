@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Test",
+        "content": "lkdsjaf;ldkjf;la",
+        "status": "draft",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "author": "Ahmad"
+    },
+    {
+        "title": "Test",
+        "content": "lkdsjaf;ldkjf;la",
+        "status": "draft",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "author": "Ahmad"
+    }
+]
