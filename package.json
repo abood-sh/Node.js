@@ -1,0 +1,20 @@
+{
+    "name": "npm-packages",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "prestart": "echo \"Nodemon is running...\"",
+        "start": "nodemon -v",
+        "hello": "echo \"Hello NPM...\""
+    },
+    "author": "Fadi Hania",
+    "license": "ISC",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.1.1",
+        "bootstrap": "^5.1.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
