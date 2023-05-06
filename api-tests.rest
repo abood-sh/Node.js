@@ -1,0 +1,12 @@
+GET https://my-json-server.typicode.com/fadihania/posts-api/posts
+
+###
+
+# This request not working...
+POST https://my-json-server.typicode.com/fadihania/posts-api/posts
+Content-Type: "application/json"
+
+{
+    "id": "222",
+    "title": "Post 222"
+}
